@@ -1,1 +1,5 @@
 # Gym
+
+##Pravila
+
+##Oklada

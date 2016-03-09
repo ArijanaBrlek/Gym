@@ -1,5 +1,5 @@
 # Gym
 
-* Pravila
-* ========
-* Oklada
+##Pravila
+========
+##Oklada

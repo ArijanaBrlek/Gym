@@ -1,5 +1,3 @@
-# Gym
+# Gym statistika
 
-##Pravila
-
-##Oklada
+![Trenutno stanje](https://github.com/ArijanaBrlek/Gym/blob/master/graph.png)

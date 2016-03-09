@@ -1,5 +1,3 @@
-# Gym
+# Gym statistika
 
-##Pravila
-
-##Oklada
+!(https://github.com/ArijanaBrlek/Gym/graph.png)

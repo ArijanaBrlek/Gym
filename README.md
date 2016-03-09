@@ -1,1 +1,4 @@
 # Gym
+========
+* Pravila
+* Oklada

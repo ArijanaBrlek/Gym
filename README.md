@@ -1,3 +1,3 @@
 # Gym statistika
 
-!(https://github.com/ArijanaBrlek/Gym/graph.png)
+![Trenutno stanje](https://github.com/ArijanaBrlek/Gym/blob/master/graph.png)
